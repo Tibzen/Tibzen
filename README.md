@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/profile/profile.webp" width="320" alt="High-contrast monochrome portrait of Tibetan777" />
+  <img src="assets/profile/profile.webp" width="320" alt="High-contrast monochrome portrait of Tibzen" />
 </p>
 
-<h1 align="center">Tibetan777</h1>
+<h1 align="center">Tibzen</h1>
 
 <p align="center">
   <code>software engineering</code> · <code>simulation systems</code> · <code>full-stack engineering</code>
