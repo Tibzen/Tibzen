@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Present Tibetan777 as a software-engineering builder through concrete engineering evidence rather than decorative widgets or unsupported skill claims.
+Present Tibzen as a software-engineering builder through concrete engineering evidence rather than decorative widgets or unsupported skill claims.
 
 ## Design principles
 
